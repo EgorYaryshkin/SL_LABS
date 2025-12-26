@@ -1,0 +1,8 @@
+Имя пользователя: egorka
+Имя для входа: Egor
+Текучий рабочий каталог: /home/egorka/linux_lab
+Мой UID, GID: uid=1000(egorka) gid=1000(egorka) groups=1000(egorka),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+Содержимое файла: total 4
+-rw-rw-r-- 2 egorka egorka 9 Dec 26 03:07 main.py
+-rw-rw-r-- 1 egorka egorka 0 Dec 26 03:03 utils.sh
+Дата и время выполнения: Fri Dec 26 03:12:00 AM +03 2025
