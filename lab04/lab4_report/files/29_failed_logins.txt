@@ -1,0 +1,11 @@
+2025-09-23T16:50:29.552299+03:00 ubunvm dbus-daemon[1305]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-23T17:27:52.955543+03:00 ubunvm gdm-password]: pam_unix(gdm-password:auth): conversation failed
+2025-09-26T21:27:21.406982+03:00 ubunvm dbus-daemon[1329]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-29T17:16:39.053173+03:00 ubunvm dbus-daemon[1311]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-29T17:22:38.208714+03:00 ubunvm dbus-daemon[1311]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-30T16:41:44.805210+03:00 ubunvm dbus-daemon[1364]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-30T16:58:47.847076+03:00 ubunvm gdm-password]: pam_unix(gdm-password:auth): conversation failed
+2025-09-30T17:12:58.086142+03:00 ubunvm gdm-password]: pam_unix(gdm-password:auth): conversation failed
+2025-09-30T19:25:15.187094+03:00 ubunvm gdm-password]: pam_unix(gdm-password:auth): conversation failed
+2025-10-07T11:57:45.141599+03:00 ubunvm dbus-daemon[1387]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-10-12T20:34:49.188895+03:00 ubunvm dbus-daemon[1366]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)

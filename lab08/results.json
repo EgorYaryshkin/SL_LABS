@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "area": 447400.0,
+    "population": 37859698,
+    "cca2": "uz",
+    "density": 84.62
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "area": 783562.0,
+    "population": 85664944,
+    "cca2": "tr",
+    "density": 109.33
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "area": 1648195.0,
+    "population": 85961000,
+    "cca2": "ir",
+    "density": 52.15
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "area": 9706961.0,
+    "population": 1408280000,
+    "cca2": "cn",
+    "density": 145.08
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "area": 100210.0,
+    "population": 51159889,
+    "cca2": "kr",
+    "density": 510.53
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "area": 676578.0,
+    "population": 51316756,
+    "cca2": "mm",
+    "density": 75.85
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "area": 527968.0,
+    "population": 32684503,
+    "cca2": "ye",
+    "density": 61.91
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "area": 513120.0,
+    "population": 65859640,
+    "cca2": "th",
+    "density": 128.35
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "area": 3287263.0,
+    "population": 1417492000,
+    "cca2": "in",
+    "density": 431.21
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "area": 2149690.0,
+    "population": 35300280,
+    "cca2": "sa",
+    "density": 16.42
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "area": 147570.0,
+    "population": 169828911,
+    "cca2": "bd",
+    "density": 1150.84
+  },
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "area": 652230.0,
+    "population": 43844000,
+    "cca2": "af",
+    "density": 67.22
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "area": 331212.0,
+    "population": 101343800,
+    "cca2": "vn",
+    "density": 305.98
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "area": 438317.0,
+    "population": 46118793,
+    "cca2": "iq",
+    "density": 105.22
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "area": 1904569.0,
+    "population": 284438782,
+    "cca2": "id",
+    "density": 149.35
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "area": 342353.0,
+    "population": 114123600,
+    "cca2": "ph",
+    "density": 333.35
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "area": 796095.0,
+    "population": 241499431,
+    "cca2": "pk",
+    "density": 303.36
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "area": 377930.0,
+    "population": 123210000,
+    "cca2": "jp",
+    "density": 326.01
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "area": 330803.0,
+    "population": 34231700,
+    "cca2": "my",
+    "density": 103.48
+  }
+]

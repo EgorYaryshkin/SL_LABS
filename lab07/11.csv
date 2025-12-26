@@ -1,0 +1,27 @@
+ProjectName;Manager;TeamSize;Budget;Duration;Completed
+CRM System Development;Ivanov A.S.;12;5000000;12 months;Yes
+Mobile Application;Petrova M.I.;10;3000000;10 months;Yes
+Website Update;Sidorov V.P.;6;1200000;6 months;Yes
+Analytics System;Kozlova E.A.;8;2500000;8 months;No
+Reporting Automation;Nikitin P.O.;7;1800000;7 months;Yes
+Cloud Infrastructure;Frolov D.M.;15;7000000;18 months;No
+Chat Bot for Support;Orlova S.V.;5;900000;5 months;Yes
+Security System;Volkov A.P.;9;3500000;9 months;Yes
+Management Dashboard;Lebedeva N.K.;6;2000000;6 months;Yes
+API Integration;Sokolov I.L.;4;800000;4 months;Yes
+Database Modernization;Novikov R.M.;10;4000000;12 months;No
+Document Management System;Morozova T.P.;7;2200000;8 months;Yes
+Analytics Application;Pavlov K.A.;8;2600000;9 months;Yes
+Monitoring Infrastructure;Semenova L.D.;9;3000000;10 months;No
+Testing System;Grigoriev M.S.;6;1500000;6 months;Yes
+E-Learning Platform;Kovaleva A.V.;12;4800000;12 months;No
+Microservice Architecture;Belov S.N.;14;6000000;14 months;No
+Backup System;Mikhailov P.R.;7;2100000;7 months;Yes
+Time Tracking Application;Alekseeva V.M.;5;1000000;5 months;Yes
+Online Courses Platform;Yakovlev D.A.;11;4500000;11 months;No
+Project Management System;Zakharova E.P.;10;3500000;10 months;Yes
+Collaboration Tool;Stepanov A.K.;8;2500000;8 months;Yes
+E-commerce Platform;Medvedeva I.S.;13;5500000;13 months;No
+Content Management System;Egorov V.L.;9;3000000;9 months;Yes
+Marketing Automation Tool;Kuznetsova O.M.;7;2000000;7 months;Yes
+

@@ -1,0 +1,11 @@
+root         658  0.0  0.7  67484 26168 ?        S<s  19:52   0:00 /usr/lib/systemd/systemd-journald
+systemd+     673  0.0  0.1  17764  6756 ?        Ss   19:52   0:02 /usr/lib/systemd/systemd-oomd
+systemd+     716  0.0  0.3  22840 13436 ?        Ss   19:52   0:00 /usr/lib/systemd/systemd-resolved
+systemd+     717  0.0  0.2  91256  7120 ?        Ssl  19:52   0:00 /usr/lib/systemd/systemd-timesyncd
+root         728  0.0  0.3  38560 11236 ?        Ss   19:52   0:01 /usr/lib/systemd/systemd-udevd
+message+    1366  0.0  0.2  11924  7636 ?        Ss   19:52   0:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root        1422  0.0  0.2  18432  8360 ?        Ss   19:52   0:00 /usr/lib/systemd/systemd-logind
+ignat-b+    2368  0.0  0.3  23100 12684 ?        Ss   19:52   0:00 /usr/lib/systemd/systemd --user
+ignat-b+    2391  0.0  0.1  10316  5984 ?        Ss   19:52   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ignat-b+    2551  0.0  0.4 637768 14556 ?        Ssl  19:52   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+ignat-b+    9004  0.0  0.0   8888  1948 pts/0    S+   21:07   0:00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox --exclude-dir=.venv --exclude-dir=venv systemd
